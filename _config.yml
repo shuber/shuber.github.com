@@ -1,0 +1,9 @@
+name: shuber.io
+url: https://shuber.io/
+description: Let's talk about ruby, php, javascript, and vim
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+exclude: ['CNAME', 'README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
